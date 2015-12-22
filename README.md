@@ -1,1 +1,2 @@
 # wordCount
+hadoop2中的2个MapReduce示例
